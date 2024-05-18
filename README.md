@@ -1,5 +1,5 @@
 <div align="center">
-<a href="assets/images/light_and_other_lightgrayBG.png" target="_blank">
+<a href="assets/images" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FindMuck/CursorSync/main/assets/images/dark_transparentBG.png" width="50%">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FindMuck/CursorSync/main/assets/images/light_and_other_lightgrayBG.png" width="50%">
